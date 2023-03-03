@@ -1,2 +1,2 @@
 # Ichat
- whatsapp like application
+ whatsapp like application made using nodejs and socket.io
